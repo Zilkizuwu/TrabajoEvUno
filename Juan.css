@@ -1,0 +1,15 @@
+.button
+{
+background-color: aqua;
+color: aliceblue;
+padding: 12px 28px;
+font-size: 63PX;
+border-color: black;
+transition: 0.3s;
+border-radius: 10PX;
+
+}
+button:hover
+{
+    background-color: brown;
+}
